@@ -1,6 +1,5 @@
-from django.db import models
+# Models for Notice Management System - Updated by Chetan Kumar
 
-# Create your models here.
 from django.db import models
 from django.contrib.auth.models import User
 
