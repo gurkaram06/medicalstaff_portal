@@ -1,4 +1,4 @@
-#Updated by Chetan
+#Updated UI for notice and login error message box and updating in this file by Chetan Kumar
 
 from django.urls import path
 from . import views
