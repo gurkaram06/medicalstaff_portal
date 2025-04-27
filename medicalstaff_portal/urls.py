@@ -1,3 +1,5 @@
+# URL Configuration for Medical Staff Portal - Updated by Tarun
+
 from django.contrib import admin
 from django.urls import path, include
 
